@@ -1,0 +1,7 @@
+//Webpack uses this to Optimize the app for react to trasnpile code from react
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
